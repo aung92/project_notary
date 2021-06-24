@@ -288,7 +288,6 @@ button:hover {
 /*-----promo section start-----*/
 
 .media h2 {
-	width: 60%;
 	margin: 100px 0 15px 0;
 }
 
@@ -314,7 +313,10 @@ iframe {
 
 
 .features .col-3 {
+	width: 32%;
 	border: 1px solid #e8e5e5;
+	padding: 20px;
+	margin: 2px;
 }
 .features h3 {
 	font-size: 18px;
@@ -345,7 +347,7 @@ iframe {
 	color: #BC253F;
 	background-color: #fff;
 	border: 1px solid;
-	margin: 5% 5%;
+	margin: 10% 30% 0 0;
 }
 
 .features button:hover {
@@ -441,7 +443,7 @@ footer form {
 
 footer input {
 	width: 60%;
-	height: 48px;
+	height: 50px;
 	text-align: center;
 	font-size: 16px;
 	border-radius: 5px;
@@ -449,6 +451,7 @@ footer input {
 
 footer button {
 	width: 30%;
+	height: 50px;
 }
 
 .box {
